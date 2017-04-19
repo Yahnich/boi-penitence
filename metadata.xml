@@ -1,32 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-    <name>Penitence</name>
-    <directory>penitance</directory>
-    <id>888045796</id>
-    <description>Adds 3 new Angel Room items:
-- Lucifer: Grants 4 soul hearts, holy shot (scales with luck), -2 fire delay (cancer trinket type) and +0.2 speed
-- Smite  Creates one short range highly damaging ring and a low damage high range ring after charging. Charge cannot be kept.
-- Devotion: 50% to gain half a soul heart when entering an uncleared room with combat, this has a 25% chance of becoming 1 soul heart. Scales with luck, becomes 100%/50% for small/big payout at 10 luck. Entering a new floor always grants a full soul heart with 25%-50% depending on luck chance to become 2 soul hearts. Decreases movement speed by 0.15.
-
-Added 1 item to the Treasure Pool
-- Atlatl: Gives a damage multiplier based on your shotspeed, higher shotspeed gives more damage. (Also in the Boss and Secret Room pool)
-
-Adds following existing items to the Angel Room Pool:
-- Transcendence
-- Stigmata
-- Crack The Sky
-- Sacrificial Dagger
-- Fate's Reward
-- Eden's Blessing
-
-Will be a larger modpack in the future as I work on it.
-
-Want only the items?
-http://steamcommunity.com/sharedfiles/filedetails/?id=888432985
-</description>
-    <version>1.6</version>
-    <visibility>Public</visibility>
-    <tag id="Lua"/>
-    <tag id="Items"/>
-    <tag id="Tweaks"/>
+	<name>Card Pack</name>
+	<directory>card pack</directory>
+	<description/>
+	<version>1.0</version>
+	<visibility/>
 </metadata>
+
