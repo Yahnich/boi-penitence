@@ -1,0 +1,16 @@
+<items gfxroot="gfx/items/" version="1">
+	<!-- Custom Passives -->
+	<passive cache="firedelay speed" description="His most loyal follower" soulhearts="8" gfx="collectibles_666_lucifer.png" name="Lucifer" />
+	<passive cache="firedelay" description="Beware ye who are wicked" gfx="collectibles_667_smite.png" name="Smite" />
+	<passive cache="speed" description="My faith rends me fearless" gfx="collectibles_668_devotion.png" name="Devotion" />
+	<passive cache="shotspeed damage" description="Speed is power." gfx="collectibles_669_atlatl.png" name="Atlatl" />
+	<!-- Custom Actives -->
+	
+	<!-- Custom Trinkets -->
+	
+	<!-- Custom Familiars -->
+	
+	<!-- ITEM OVERRIDES -->
+	
+	<!-- Overridden Actives -->
+</items>

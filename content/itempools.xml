@@ -1,0 +1,23 @@
+<ItemPools>
+	<Pool Name="angel">
+		<Item Id="20" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<Item Id="78" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<Item Id="138" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<Item Id="160" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<Item Id="172" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<Item Id="361" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<Item Id="381" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<Item Name="Lucifer" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<Item Name="Smite" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+		<Item Name="Devotion" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+	<Pool Name="treasure">
+		<Item Name="Atlatl" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+	<Pool Name="boss">
+		<Item Name="Atlatl" Weight="0.8" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+	<Pool Name="secret">
+		<Item Name="Atlatl" Weight="1" DecreaseBy="0.5" RemoveOn="0.1"/>
+	</Pool>
+</ItemPools>

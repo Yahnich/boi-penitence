@@ -1,0 +1,18 @@
+<pocketitems>
+	<card description="Life multiplier" name="2 of Cups" hud="45_TwoCups"/>
+	<card description="Damage multiplier" name="2 of Swords" hud="46_TwoSwords"/>
+	<card description="Item converter" name="Ace of Cups" hud="47_AceCups"/>
+	<card description="Pickups to damage" name="Ace of Swords" hud="48_AceSwords"/>
+	<card description="One item only" name="King of Diamonds" hud="49_KingDiamonds"/>
+	<card description="One item only" name="King of Clubs" hud="50_KingClubs"/>
+	<card description="One item only" name="King of Spades" hud="51_KingSpades"/>
+	<card description="One item only" name="King of Hearts" hud="52_KingHearts"/>
+	<card description="One item only" name="King of Cups" hud="53_KingCups"/>
+	<card description="One item only" name="King of Swords" hud="54_KingSwords"/>
+	<card description="Double floor pickups" name="Queen of Diamonds" hud="55_QueenDiamonds"/>
+	<card description="Double floor pickups" name="Queen of Clubs" hud="56_QueenClubs"/>
+	<card description="Double floor pickups" name="Queen of Spades" hud="57_QueenSpades"/>
+	<card description="Double floor pickups" name="Queen of Hearts" hud="58_QueenHearts"/>
+	<card description="Double floor pickups" name="Queen of Cups" hud="59_QueenCups"/>
+	<card description="Double floor pickups" name="Queen of Swords" hud="60_QueenSwords"/>
+</pocketitems>
