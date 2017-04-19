@@ -1,6 +1,6 @@
 -- Global scoping --
 print("Initializing")
-mod = RegisterMod("Penitence Card Pack", 1)
+mod = RegisterMod("Penitence Cat Pack", 1)
 game = Game()
 MIN_TEAR_DELAY = 5
 
